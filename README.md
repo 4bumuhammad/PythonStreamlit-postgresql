@@ -144,3 +144,20 @@ components streamlit : --> https://components.streamlit.app
 <p align="center">
     <img src="./gambar-petunjuk/ss_002.png" alt="002" style="display: block; margin: 0 auto;">
 </p>
+
+
+### 2_app_datapostgresql_rowGroup.py
+<p align="center">
+    <img src="./gambar-petunjuk/ss_003.png" alt="003" style="display: block; margin: 0 auto;">
+</p>
+<p align="center">
+    <img src="./gambar-petunjuk/ss_004.png" alt="004" style="display: block; margin: 0 auto;">
+</p>
+<p align="center">
+    <img src="./gambar-petunjuk/ss_005.png" alt="005" style="display: block; margin: 0 auto;">
+</p>
+
+### 3_app_datapostgresql_selectbox.py
+<p align="center">
+    <img src="./gambar-petunjuk/ss_006.png" alt="006" style="display: block; margin: 0 auto;">
+</p>

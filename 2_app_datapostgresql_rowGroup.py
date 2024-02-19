@@ -10,7 +10,7 @@ import time
 # Load environment variables from .env file
 load_dotenv()
 
-db_host = "localhost"
+db_host = "192.168.100.196"
 db_name = "Superstore"
 # Access environment variables
 db_user = os.getenv('PGUSER')
