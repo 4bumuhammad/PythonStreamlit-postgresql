@@ -129,9 +129,18 @@ components streamlit : --> https://components.streamlit.app
     ├── mydashboard.py
 
   ❯ cat .env
-  
+
     PGUSER=postgres
     PGPASSWORD=postgres
     PGPORT=5432
 
 ---
+
+### 1_app_loadpostgresql.py
+<p align="center">
+    <img src="./gambar-petunjuk/ss_001.png" alt="001" style="display: block; margin: 0 auto;">
+</p>
+
+<p align="center">
+    <img src="./gambar-petunjuk/ss_002.png" alt="002" style="display: block; margin: 0 auto;">
+</p>
