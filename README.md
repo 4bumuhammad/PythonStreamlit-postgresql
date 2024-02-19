@@ -18,7 +18,7 @@
 
 - Test akses ke database postgresql
 
-    ❯ psql -h <HOST-IP> -U postgres -d Superstore
+      ❯ psql -h <HOST-IP> -U postgres -d Superstore
 
 ### in host :
 
