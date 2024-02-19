@@ -55,63 +55,62 @@
 ### References : 
 components streamlit : --> https://components.streamlit.app
 
+    ❯ cd <foldername-projects>
 
-  ❯ cd <foldername-projects>
+    ❯ python -m venv venv
 
-  ❯ python -m venv venv
-
-  ❯ source ./venv/bin/activate
+    ❯ source ./venv/bin/activate
 
 
 ---
 
-  ❯ pip install streamlit
+    ❯ pip install streamlit
 
-  ❯ pip install streamlit-option-menu
+    ❯ pip install streamlit-option-menu
 
-  ❯ pip install streamlit-aggrid
+    ❯ pip install streamlit-aggrid
 
 ---
 
 ### another packages for single compilations
 
-  ❯ pip install opencv-python
+    ❯ pip install opencv-python
 
-  ❯ pip install qrcode
-
----
-
-  ❯ pip install plotly 
-
-  ❯ pip install openpyxl
-
-  ❯ pip install matplotlib 
-
+    ❯ pip install qrcode
 
 ---
 
-  ❯ pip install python-dotenv
+    ❯ pip install plotly 
 
-  ❯ pip install psycopg2
+    ❯ pip install openpyxl
 
-  ❯ pip install sqlalchemy
+    ❯ pip install matplotlib 
+
+
+---
+
+    ❯ pip install python-dotenv
+
+    ❯ pip install psycopg2
+
+    ❯ pip install sqlalchemy
 
 
 ---
 
 ### khusus untuk penggunaan Ubuntu 22.04 or latest
 
-  ❯ python3 -m venv venvUbuntu
+    ❯ python3 -m venv venvUbuntu
 
-  ❯ source venvUbuntu/bin/activate
+    ❯ source venvUbuntu/bin/activate
 
-  ❯ pip install psycopg2-binary
+    ❯ pip install psycopg2-binary
 
-  ❯ pip3 list | grep SQLAlchemy
+    ❯ pip3 list | grep SQLAlchemy
 
-      SQLAlchemy                        2.0.25
+        SQLAlchemy         2.0.25
 
 
 ### menjalankan project:
 
-  ❯ streamlit run ./<nama-file>.py  --server.port 8888
+    ❯ streamlit run ./<nama-file>.py  --server.port 8888
