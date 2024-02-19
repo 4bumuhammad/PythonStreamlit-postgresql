@@ -114,3 +114,18 @@ components streamlit : --> https://components.streamlit.app
 ### menjalankan project:
 
     ❯ streamlit run ./<nama-file>.py  --server.port 8888
+
+
+---
+
+### struktur files :
+
+  ❯ tree -a -L 1 -I 'README.md|venv' ./ | grep -E '.py|.env'
+
+    ├── .env
+    ├── 1_app_loadpostgresql.py
+    ├── 2_app_datapostgresql_rowGroup.py
+    ├── 3_app_datapostgresql_selectbox.py
+    ├── mydashboard.py
+
+---
