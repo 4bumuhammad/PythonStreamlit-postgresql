@@ -8,22 +8,22 @@
 
 ### Postgres dengan Docker Container
 
-  ❯ docker run -d \
-    --name postgres-container \
-    -e POSTGRES_USER=postgres \
-    -e POSTGRES_PASSWORD=postgres \
-    -p 5432:5432 \
-    -v /Users/powercommerce/Documents/test/docker-mount/postgres:/var/lib/postgresql/data \
-    postgres:16.1
+    ❯ docker run -d \
+      --name postgres-container \
+      -e POSTGRES_USER=postgres \
+      -e POSTGRES_PASSWORD=postgres \
+      -p 5432:5432 \
+      -v /Users/powercommerce/Documents/test/docker-mount/postgres:/var/lib/postgresql/data \
+      postgres:16.1
 
 - Test akses ke database postgresql
 
-  ❯ psql -h <HOST-IP> -U postgres -d Superstore
+    ❯ psql -h <HOST-IP> -U postgres -d Superstore
 
 ### in host :
 
-  ❯ pg_dump --version
-    pg_dump (PostgreSQL) 16.1 (Homebrew)
+    ❯ pg_dump --version
+      pg_dump (PostgreSQL) 16.1 (Homebrew)
 
 
 
@@ -34,11 +34,11 @@
 
 - Backup per-table:
 
-    ❯ pg_dump -h <HOST-IP> -U postgres -W -d Superstore -t tablestatecity -F c -f /<path-directories>/dbpostgres_Superstore_tablestatecity_backup_$(date +"%Y%m%d_%H%M%S").dump
+      ❯ pg_dump -h <HOST-IP> -U postgres -W -d Superstore -t tablestatecity -F c -f /<path-directories>/dbpostgres_Superstore_tablestatecity_backup_$(date +"%Y%m%d_%H%M%S").dump
 
 - Backup per-database:
 
-    ❯ pg_dump -h <HOST-IP> -U postgres -d Superstore -F c -f /<path-directories>/dbpostgres_Superstore_backup_$(date +"%Y%m%d_%H%M%S").dump
+      ❯ pg_dump -h <HOST-IP> -U postgres -d Superstore -F c -f /<path-directories>/dbpostgres_Superstore_backup_$(date +"%Y%m%d_%H%M%S").dump
 
 
 - 
@@ -47,7 +47,7 @@
 
 - Restore per-database
 
-    ❯ pg_restore -h <HOST-IP> -U postgres -d Superstore /<path-directories>/dbpostgres_Superstore_backup_20240215_094515.dump
+      ❯ pg_restore -h <HOST-IP> -U postgres -d Superstore /<path-directories>/dbpostgres_Superstore_backup_20240215_094515.dump
 
 
 
@@ -60,11 +60,11 @@ References :
 - components streamlit : --> https://components.streamlit.app
 
 
-❯ cd <foldername-projects>
+  ❯ cd <foldername-projects>
 
-❯ python -m venv venv
+  ❯ python -m venv venv
 
-❯ source ./venv/bin/activate
+  ❯ source ./venv/bin/activate
 
 
 ---
