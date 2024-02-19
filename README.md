@@ -41,23 +41,19 @@
       ❯ pg_dump -h <HOST-IP> -U postgres -d Superstore -F c -f /<path-directories>/dbpostgres_Superstore_backup_$(date +"%Y%m%d_%H%M%S").dump
 
 
-- 
-
 ### [PG_RESTORE postgresql]
 
 - Restore per-database
 
       ❯ pg_restore -h <HOST-IP> -U postgres -d Superstore /<path-directories>/dbpostgres_Superstore_backup_20240215_094515.dump
 
-
-
 ---
 
 
 ## BEGIN STREAMLIT PROJECT:
 
-References : 
-- components streamlit : --> https://components.streamlit.app
+### References : 
+components streamlit : --> https://components.streamlit.app
 
 
   ❯ cd <foldername-projects>
