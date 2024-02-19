@@ -128,4 +128,9 @@ components streamlit : --> https://components.streamlit.app
     ├── 3_app_datapostgresql_selectbox.py
     ├── mydashboard.py
 
+  ❯ cat .env
+    PGUSER=postgres
+    PGPASSWORD=postgres
+    PGPORT=5432
+
 ---
