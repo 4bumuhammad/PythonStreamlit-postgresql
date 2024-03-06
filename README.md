@@ -172,7 +172,7 @@ components streamlit : --> https://components.streamlit.app
 
 ---
 
-Notes : 
+&#x1FAA7; Notes : 
 
     ❯ pip list
 
