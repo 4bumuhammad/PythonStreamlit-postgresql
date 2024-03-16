@@ -1,7 +1,7 @@
 <p align="center">
     <img src="./gambar-petunjuk/streamlit_logo_only.png" alt="streamlit_logo_only" style="display: block; margin: 0 auto;">
-    <p style="font-size: 36px;">Streamlit</p>
 </p>
+<p align="center" style="font-size: 36px;">Streamlit</p>
 
 
 # PythonStreamlit-postgresql
