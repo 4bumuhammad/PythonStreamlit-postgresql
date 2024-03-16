@@ -139,19 +139,23 @@ components streamlit : --> https://components.streamlit.app
 
 ### struktur files :
 
-  ❯ tree -a -L 1 -I 'README.md|venv' ./ | grep -E '.py|.env'
+    ❯ tree -a -L 1 -I 'README.md|venv' ./ | grep -E '.py|.env'
 
-    ├── .env
-    ├── 1_app_loadpostgresql.py
-    ├── 2_app_datapostgresql_rowGroup.py
-    ├── 3_app_datapostgresql_selectbox.py
-    ├── mydashboard.py
+        ├── .env
+        ├── 1_app_loadpostgresql.py
+        ├── 2_app_datapostgresql_rowGroup.py
+        ├── 3_app_datapostgresql_selectbox.py
+        ├── mydashboard.py
 
-  ❯ cat .env
 
-    PGUSER=postgres
-    PGPASSWORD=postgres
-    PGPORT=5432
+&nbsp;
+
+
+    ❯ cat .env
+
+        PGUSER=postgres
+        PGPASSWORD=postgres
+        PGPORT=5432
 
 ---
 
