@@ -81,8 +81,8 @@ components streamlit : --> `https://components.streamlit.app`
 
     ❯ source ./venv/bin/activate
 
+&nbsp;
 
----
 
     ❯ pip install streamlit
 
@@ -90,7 +90,12 @@ components streamlit : --> `https://components.streamlit.app`
 
     ❯ pip install streamlit-aggrid
 
----
+
+
+&nbsp;
+
+&nbsp;
+
 
 ### another packages for single compilations
 
@@ -98,7 +103,7 @@ components streamlit : --> `https://components.streamlit.app`
 
     ❯ pip install qrcode
 
----
+&nbsp;
 
     ❯ pip install plotly 
 
@@ -107,7 +112,7 @@ components streamlit : --> `https://components.streamlit.app`
     ❯ pip install matplotlib 
 
 
----
+&nbsp;
 
     ❯ pip install python-dotenv
 
@@ -115,8 +120,14 @@ components streamlit : --> `https://components.streamlit.app`
 
     ❯ pip install sqlalchemy
 
+&nbsp;
 
 ---
+
+&nbsp;
+
+&nbsp;
+
 
 ### khusus untuk penggunaan Ubuntu 22.04 or latest
 
@@ -131,9 +142,14 @@ components streamlit : --> `https://components.streamlit.app`
         SQLAlchemy         2.0.25
 
 
+&nbsp;
+
+
 ### menjalankan project:
 
     ❯ streamlit run ./<nama-file>.py  --server.port 8888
+
+&nbsp;
 
 
 ---
