@@ -1,9 +1,7 @@
 <p align="center">
     <img src="./gambar-petunjuk/streamlit_logo_only.png" alt="streamlit_logo_only" style="display: block; margin: 0 auto;">
 </p>
-<font size="+10">
-<p align="center">Streamlit</p>
-</font>
+<span align="center" style="font-size: 36px;">Ini adalah Label dengan Ukuran Besar</span>
 
 # PythonStreamlit-postgresql
 ---
