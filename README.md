@@ -35,10 +35,9 @@
     ❯ pg_dump --version
       pg_dump (PostgreSQL) 16.1 (Homebrew)
 
-
-
 ---
 
+&nbsp;
 
 ### [PG_DUMP postgresql]
 
@@ -50,6 +49,7 @@
 
       ❯ pg_dump -h <HOST-IP> -U postgres -d Superstore -F c -f /<path-directories>/dbpostgres_Superstore_backup_$(date +"%Y%m%d_%H%M%S").dump
 
+&nbsp;
 
 ### [PG_RESTORE postgresql]
 
