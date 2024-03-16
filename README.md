@@ -1,7 +1,7 @@
 <p align="center">
     <img src="./gambar-petunjuk/streamlit_logo_only.png" alt="streamlit_logo_only" style="display: block; margin: 0 auto;">
 </p>
-<font size="+2">
+<font size="+10">
 <p align="center">Streamlit</p>
 </font>
 
