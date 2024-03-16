@@ -155,6 +155,9 @@ components streamlit : --> https://components.streamlit.app
 
 ---
 
+
+&nbsp;
+
 ### 1_app_loadpostgresql.py
 <p align="center">
     <img src="./gambar-petunjuk/ss_001.png" alt="001" style="display: block; margin: 0 auto;">
@@ -164,6 +167,10 @@ components streamlit : --> https://components.streamlit.app
     <img src="./gambar-petunjuk/ss_002.png" alt="002" style="display: block; margin: 0 auto;">
 </p>
 
+
+&nbsp;
+
+&nbsp;
 
 ### 2_app_datapostgresql_rowGroup.py
 <p align="center">
@@ -175,6 +182,12 @@ components streamlit : --> https://components.streamlit.app
 <p align="center">
     <img src="./gambar-petunjuk/ss_005.png" alt="005" style="display: block; margin: 0 auto;">
 </p>
+
+
+
+&nbsp;
+
+&nbsp;
 
 ### 3_app_datapostgresql_selectbox.py
 <p align="center">
@@ -188,6 +201,7 @@ components streamlit : --> https://components.streamlit.app
     <img src="./gambar-petunjuk/ss_007.png" alt="007" style="display: block; margin: 0 auto;">
 </p>
 
+&nbsp;
 
 ---
 
