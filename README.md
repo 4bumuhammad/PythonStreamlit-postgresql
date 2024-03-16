@@ -70,7 +70,7 @@
 
 
 
-## BEGIN STREAMLIT PROJECT:
+## &#x1F530; BEGIN STREAMLIT PROJECT:
 
 ### References : 
 components streamlit : --> https://components.streamlit.app
