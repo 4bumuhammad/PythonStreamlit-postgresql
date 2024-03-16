@@ -198,7 +198,17 @@ components streamlit : --> https://components.streamlit.app
     <img src="./gambar-petunjuk/ss_006.png" alt="006" style="display: block; margin: 0 auto;">
 </p>
 
+
+
+&nbsp;
+
+
 ---
+
+
+&nbsp;
+
+&nbsp;
 
 ### mydashboard.py
 <p align="center">
