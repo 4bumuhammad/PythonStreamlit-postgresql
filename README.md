@@ -1,5 +1,7 @@
 <p align="center">
     <img src="./gambar-petunjuk/streamlit_logo_only.png" alt="streamlit_logo_only" style="display: block; margin: 0 auto;">
+</p>
+<p align="center">
     <img src="./gambar-petunjuk/streamlit_text.png" alt="streamlit_text" style="display: block; margin: 0 auto;">
 </p>
 
