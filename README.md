@@ -236,7 +236,13 @@ components streamlit : --> `https://components.streamlit.app`
 
 ---
 
+&nbsp;
 
+&nbsp;
+
+<p align="center">
+    <img src="./gambar-petunjuk/syukron.png" alt="syukron" style="display: block; margin: 0 auto;">
+</p>
 
 
 
